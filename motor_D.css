@@ -1,0 +1,155 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+  color: rgb(51, 88, 51);
+  font-size: 25px;
+}
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 577px;
+}
+body{
+    background: rgb(112, 141, 122);
+    font-family: sans-serif;
+}
+h3{
+    width: 100%;  
+    position: fixed;
+  bottom:0;
+  right: 0; 
+  left: 800px;
+  top: 150px;
+  color: rgb(51, 88, 51);
+}
+.h32{
+    width: 100%;  
+    position: fixed;
+  bottom:0;
+  right: 0; 
+  left: 800px;
+  top: 190px; 
+  color: rgb(51, 88, 51);   
+}
+.h33{
+  width: 100%;  
+  position: fixed;
+  bottom:0;
+  right: 0; 
+  left: 800px;
+  top: 230px;  
+  color: rgb(51, 88, 51);
+}
+.h34{
+  width: 100%;  
+  position: fixed;
+  bottom:0;
+  right: 0; 
+  left: 800px;
+  top: 270px;  
+  color: rgb(51, 88, 51);
+}
+.h35{
+  width: 100%;  
+  position: fixed;
+  bottom:0;
+  right: 0; 
+  left: 800px;
+  top: 310px;  
+  color: rgb(51, 88, 51);
+}
+.h36{
+  width: 100%;  
+  position: fixed;
+  bottom:0;
+  right: 0; 
+  left: 800px;
+  top: 350px;  
+  color: rgb(51, 88, 51);
+}
+
+.main{
+  width: 800px;
+  height: 200px;
+  position: fixed;
+  top: 150px;
+  left: 550px;
+}
+.main1{
+  width: 800px;
+  height: 200px;
+  position: fixed;
+  top: 190px;
+  left: 550px;}
+
+.main2{
+    width: 800px;
+    height: 200px;
+    position: fixed;
+    top: 230px;
+    left: 550px;    
+}
+
+.main3{
+  width: 800px;
+  height: 200px;
+  position: fixed;
+  top: 270px;
+  left: 550px;    
+}
+.main4{
+  width: 800px;
+  height: 200px;
+  position: fixed;
+  top: 310px;
+  left: 550px;    
+}
+.main5{
+  width: 800px;
+  height: 200px;
+  position: fixed;
+  top: 350px;
+  left: 550px;    
+}
+.button1 {
+    border: none;
+    color: rgb(66, 182, 66);
+    padding: 11px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    position: fixed;
+    top: 500px;
+    left: 580px; 
+    border-radius: 4px;
+  }
+  .button2 {
+    border: none;
+    color: rgb(66, 182, 66);
+    padding: 11px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    position: fixed;
+    top: 500px;
+    left: 700px;
+    border-radius: 4px; 
+  }
+#slider{
+    -webkit-appearance: none;
+    width: 30%;
+    height: 7px;
+    outline: none;
+    border-radius: 3px;
+}
